@@ -1,0 +1,53 @@
+﻿  game_classes.cpp
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\game_classes.cpp(15,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\game_classes.cpp(16,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\game_classes.cpp(82,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  item_container.cpp
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\game_classes.cpp(88,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(80,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(111,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(117,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(124,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(127,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,47): warning C4244:         with
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,47): warning C4244:         [
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,47): warning C4244:             T=float
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,47): warning C4244:         ]
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,32): warning C4244:         with
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,32): warning C4244:         [
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,32): warning C4244:             T=float
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(138,32): warning C4244:         ]
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(146,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(147,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(153,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\item_container.cpp(154,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\main.cpp(106,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\main.cpp(106,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\main.cpp(121,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\main.cpp(144,140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\main.cpp(144,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\main.cpp(145,152): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  maploader.cpp
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\main.cpp(145,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(55,67): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(55,32): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(99,22): warning C4018: '<': signed/unsigned mismatch
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(146,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(146,15): warning C4244:         with
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(146,15): warning C4244:         [
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(146,15): warning C4244:             T=float
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(146,15): warning C4244:         ]
+  Generating Code...
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(147,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(147,15): warning C4244:         with
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(147,15): warning C4244:         [
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(147,15): warning C4244:             T=float
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(147,15): warning C4244:         ]
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(143): warning C4172: returning address of local variable or temporary
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(144): warning C4172: returning address of local variable or temporary
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(149): warning C4172: returning address of local variable or temporary
+D:\Programming\Projects\Pyrobit Engine\Pyrobit Engine\maploader.cpp(150): warning C4172: returning address of local variable or temporary
+  Pyrobit Engine.vcxproj -> D:\Programming\Projects\Pyrobit Engine\Debug\Pyrobit Engine.exe
